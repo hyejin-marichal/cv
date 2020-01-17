@@ -1,0 +1,141 @@
+.c_chtml{
+    background: cadetblue;
+    font-family: Verdana;
+}
+
+.c_h1 {
+    color: black;
+    background-color: dimgray;
+    text-align: center;
+    padding: 20px;
+    display: block;
+}
+
+
+.c_h2 {
+    color: black;
+    font-weight: bold;
+}
+
+.c_h3 {
+    color: lightyellow;
+    font-weight: bold;
+    text-align: center;
+}
+
+.c_p, .c_nav, .c_th, .c_tr {
+    color: black;
+    font-weight: bold;
+}
+
+.c_table{
+    margin: 50px;
+}
+.c_table, .c_th, .c_td {
+    border: 1px solid black;
+    width: 500px;
+    height: 100px;
+}
+
+.c_td{
+    font-weight: normal;
+    text-align: center;
+}
+
+.c_prof{
+    border-bottom: 1px solid;
+}
+
+.c_com{
+    float: left;
+    padding: 20px;
+}
+
+.c_com li{
+    padding: 30px;
+    font-weight: bold;
+    list-style: none;
+    margin: 5px 0;
+}
+
+.c_bar{
+    padding: 2px;
+    background: grey;
+    display: block;
+    height: 2px;
+    border: 1px;
+    border-radius: 3px;
+    overflow: hidden;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.c_bar span {
+    height: 5px;
+    float: left;
+    background: pink;
+}
+
+.c_test{
+    float: left;
+}
+
+.c_ang{
+    width: 75%;
+}
+.c_chi{
+    width: 50%;
+}
+
+.c_html{
+    width: 70%;
+}
+.c_css{
+    width: 50%;
+}
+.c_exp{
+    position: absolute;
+    right: 500px;
+    padding: 20px;
+}
+
+.c_nav {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    padding: 0;
+    background-color: dimgray;
+}
+
+.c_nav a {
+    padding: 0 20px;
+    background-color: dimgray;
+}
+
+.c_nav li{
+    display: inline-block;
+    padding: 5px;
+    background-color: dimgray;
+}
+
+.c_a:link{
+    color: lightyellow;
+    text-decoration: none;
+}
+.c_a:visited{
+    color: darkblue;
+}
+.c_image {
+    padding: 0;
+    width: 150px;
+    height: 155px;
+    float: right;
+}
+
+.c_test{
+    padding: 5px;
+}
+.c_input{
+    background-color: white;
+}
